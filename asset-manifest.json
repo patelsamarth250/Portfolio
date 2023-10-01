@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4c31f65.css",
+    "main.js": "/static/js/main.2a56cdf1.js",
+    "static/media/OrgPic-transformed-new.png": "/static/media/OrgPic-transformed-new.7ca725f43488b89621cf.png",
+    "static/media/Project_Eduloop1.pdf": "/static/media/Project_Eduloop1.9337f3215edb4e169d00.pdf",
+    "static/media/profile-pic-grad.png": "/static/media/profile-pic-grad.08b01c9b842137ee58c2.png",
+    "static/media/my-pic.jpg": "/static/media/my-pic.f614c2627f7119d6ac5d.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.baabb39d44fb55ee6247.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.7087fd3f4aca56f0f9c3.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.ad29e55977d1da57de1a.jpg",
+    "static/media/samarth_resume.pdf": "/static/media/samarth_resume.9ea1ef78804097cbc0b7.pdf",
+    "index.html": "/index.html",
+    "main.d4c31f65.css.map": "/static/css/main.d4c31f65.css.map",
+    "main.2a56cdf1.js.map": "/static/js/main.2a56cdf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c31f65.css",
+    "static/js/main.2a56cdf1.js"
+  ]
+}
