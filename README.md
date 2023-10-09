@@ -6,7 +6,7 @@
 
 This is my personal portfolio website, built with React, HTML, and CSS. It serves as a showcase of my skills, projects, and experiences. I've also integrated several libraries to enhance the user experience, including React Icons, SwiperJS, and EmailJS.
 
-Visit the live website: [Portfolio Website](http://samarth-patel.s3-website-us-east-1.amazonaws.com/)
+Visit the live website: [http://samarth-patel.s3-website-us-east-1.amazonaws.com/](http://samarth-patel.s3-website-us-east-1.amazonaws.com/)
 
 ## Features
 
